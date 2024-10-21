@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/macbookpro/Desktop/DEVE/WEB3/Wallet/wallet/contracts/Wallet.sol": {
+      "lastModificationDate": 1677436666614,
+      "contentHash": "85f78b87bbfcf18c64b718b9caeedf6a",
+      "sourceName": "contracts/Wallet.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Wallet"
+      ]
+    }
+  }
+}
